@@ -1,4 +1,5 @@
 import Phaser from "phaser";
+import { PreloadScene } from "./PreloadScene";
 
 //set the size of the canvas same size as the bg image
 const sizes = {
@@ -89,7 +90,7 @@ const config = {
       debug: true,
     },
   },
-  scene: [GameScene],
+  scene: [PreloadScene,GameScene],
 };
 
 const game = new Phaser.Game(config);

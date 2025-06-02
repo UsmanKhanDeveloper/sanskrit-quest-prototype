@@ -10,13 +10,25 @@
   margin: 0;
   padding: 0;
 }
+header h1 {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px #000;
+  font-family: 'Georgia', serif;
+}
+
+footer p {
+  font-size: 1.1rem;
+  color: #bbb;
+  font-style: italic;
+}
 
 p {
   font-size: 2rem;
 }
 
 body {
-  background-color: grey;
+  background-color: black;
   color: var(--ltClr);
   display: flex;
   flex-direction: column;
@@ -42,12 +54,11 @@ main {
   position: relative;
 }
 
-/* 🎮 Canvas Styling */
 #gameCanvas {
   width: 743px;
   height: 860px;
-  border: 1px solid red;
+  border: 25px solid rgb(60, 164, 60);
   display: block;
   z-index: 1;
-  background-color: black; /* fallback color for canvas if no bg image */
+  background-color: black;
 }
