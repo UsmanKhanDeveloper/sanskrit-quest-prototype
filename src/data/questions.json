@@ -1,0 +1,132 @@
+[
+    {
+        "sound": "Audio/A.mp3",
+        "correct": "A",
+        "options": ["A", "C", "B"]
+    },
+    {
+        "sound": "Audio/B.mp3",
+        "correct": "B",
+        "options": ["B", "P", "S"]
+    },
+    {
+        "sound": "Audio/C.mp3",
+        "correct": "C",
+        "options": ["C", "T", "R"]
+    },
+    {
+        "sound": "Audio/D.mp3",
+        "correct": "D",
+        "options": ["D", "Y", "F"]
+    },
+    {
+        "sound": "Audio/E.mp3",
+        "correct": "E",
+        "options": ["E", "Z", "G"]
+    },
+    {
+        "sound": "Audio/F.mp3",
+        "correct": "F",
+        "options": ["F", "J", "R"]
+    },
+    {
+        "sound": "Audio/G.mp3",
+        "correct": "G",
+        "options": ["B", "G", "Z"]
+    },
+    {
+        "sound": "Audio/H.mp3",
+        "correct": "H",
+        "options": ["H", "E", "C"]
+    },
+    {
+        "sound": "Audio/I.mp3",
+        "correct": "I",
+        "options": ["L", "I", "M"]
+    },
+    {
+        "sound": "Audio/J.mp3",
+        "correct": "J",
+        "options": ["J", "X", "K"]
+    },
+    {
+        "sound": "Audio/K.mp3",
+        "correct": "K",
+        "options": ["W", "K", "L"]
+    },
+    {
+        "sound": "Audio/L.mp3",
+        "correct": "L",
+        "options": ["L", "C", "T"]
+    },
+    {
+        "sound": "Audio/M.mp3",
+        "correct": "M",
+        "options": ["M", "Q", "H"]
+    },
+    {
+        "sound": "Audio/N.mp3",
+        "correct": "N",
+        "options": ["U", "D", "N"]
+    },
+    {
+        "sound": "Audio/O.mp3",
+        "correct": "O",
+        "options": ["S", "O", "I"]
+    },
+    {
+        "sound": "Audio/P.mp3",
+        "correct": "P",
+        "options": ["P", "X", "M"]
+    },
+    {
+        "sound": "Audio/Q.mp3",
+        "correct": "Q",
+        "options": ["V", "Q", "U"]
+    },
+    {
+        "sound": "Audio/R.mp3",
+        "correct": "R",
+        "options": ["R", "G", "J"]
+    },
+    {
+        "sound": "Audio/S.mp3",
+        "correct": "S",
+        "options": ["F", "S", "N"]
+    },
+    {
+        "sound": "Audio/T.mp3",
+        "correct": "T",
+        "options": ["T", "A", "O"]
+    },
+    {
+        "sound": "Audio/U.mp3",
+        "correct": "U",
+        "options": ["Y", "U", "K"]
+    },
+    {
+        "sound": "Audio/V.mp3",
+        "correct": "V",
+        "options": ["V", "E", "W"]
+    },
+    {
+        "sound": "Audio/W.mp3",
+        "correct": "W",
+        "options": ["W", "L", "X"]
+    },
+    {
+        "sound": "Audio/X.mp3",
+        "correct": "X",
+        "options": ["X", "B", "H"]
+    },
+    {
+        "sound": "Audio/Y.mp3",
+        "correct": "Y",
+        "options": ["I", "Q", "Y"]
+    },
+    {
+        "sound": "Audio/Z.mp3",
+        "correct": "Z",
+        "options": ["Z", "N", "D"]
+    }
+]
