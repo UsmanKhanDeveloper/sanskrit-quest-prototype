@@ -10,22 +10,6 @@
   margin: 0;
   padding: 0;
 }
-header h1 {
-  font-size: 100px;
-  color: rgb(255, 255, 255);
-  text-shadow: 2px 2px #000;
-  font-family: 'Georgia', serif;
-}
-
-footer p {
-  font-size: 1.1rem;
-  color: #bbb;
-  font-style: italic;
-}
-
-p {
-  font-size: 2rem;
-}
 
 body {
   background-color: black;
@@ -36,6 +20,7 @@ body {
   justify-content: space-between;
   min-height: 100vh;
   text-align: center;
+  overflow: hidden;
 }
 
 header, footer {
@@ -43,6 +28,65 @@ header, footer {
   justify-content: center;
   align-items: center;
   padding: 30px 20px;
+  width: 100%;
+  z-index: 2;
+}
+
+header h1 {
+  font-size: 100px;
+  color: white;
+  text-shadow: 2px 2px #000;
+  font-family: 'Georgia', serif;
+}
+
+footer p {
+  font-size: 1.1rem;
+  color: #bbb;
+  font-style: italic;
+}
+
+#home-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  overflow: hidden;
+}
+
+#bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+#title-img {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 2000px;
+  z-index: 2;
+}
+
+#start-btn {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  z-index: 2;
+}
+
+#start-btn:hover {
+  transform: translate(-50%, -50%) scale(1.1);
 }
 
 main {
@@ -57,8 +101,168 @@ main {
 #gameCanvas {
   width: 743px;
   height: 860px;
-  border: 25px solid rgb(60, 164, 60);
-  display: block;
+  display: none;
   z-index: 1;
   background-color: black;
+  border:none;
+}
+
+#bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+#title-img, #start-btn {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+#title-img {
+  top: 25%;
+  width: 65%;
+}
+
+#start-btn {
+  top: 60%;
+  width: 150px;
+  cursor: pointer;
+}
+
+#intro-img {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  border: 5px solid white;
+  border-radius: 8px;
+}
+
+#fullscreen-btn, #credits-btn {
+  position: absolute;
+  z-index: 5;
+  font-size: 40px;
+  padding: 5px 10px;
+  background: none;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#fullscreen-btn {
+  top: 10px;
+  right: 10px;
+}
+
+#credits-btn {
+  bottom: 10px;
+  right: 10px;
+}
+
+#credits-modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  z-index: 20;
+  justify-content: center;
+  align-items: center;
+}
+
+.credits-content {
+  background: #000;
+  padding: 30px;
+  color: white;
+  border: 2px solid white;
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+#howto-popup {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  z-index: 30;
+  justify-content: center;
+  align-items: center;
+}
+
+.howto-content {
+  background: #111;
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+  border: 2px solid white;
+  text-align: center;
+  max-width: 90%;
+  width: 400px;
+  font-size: 1.2rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes bounceIn {
+  0%   { transform: scale(0.8); }
+  50%  { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.modal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+.modal-content {
+  background: #fff;
+  color: #111;
+  padding: 30px 40px;
+  border-radius: 12px;
+  text-align: center;
+  animation: bounceIn 0.6s ease-out;
+}
+
+.modal-content h2 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+.modal-content p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+body {
+  opacity: 0;
+  transition: opacity 1s ease-in;
+}
+
+body.fade-in {
+  opacity: 1;
 }

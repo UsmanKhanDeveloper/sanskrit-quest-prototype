@@ -7,18 +7,65 @@
   <link rel="stylesheet" href="src/style.css" />
 </head>
 <body>
-  <header>
+  <header style="display: none;">
     <h1>Sanskrit Quest</h1>
   </header>
 
   <main>
+    <button id="fullscreen-btn" title="Fullscreen">⛶</button>
+    <button id="credits-btn">Credits</button>
+
+    <div id="home-screen">
+      <video id="bg-video" autoplay muted loop playsinline>
+        <source src="assets/video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+      <img id="title-img" src="assets/Sanskrit.svg" alt="Game Title" />
+      <img id="start-btn" src="assets/play.png" alt="Play" />
+    </div>
+
+    <img id="intro-img" src="assets/intro.png" alt="Intro" />
+    
     <canvas id="gameCanvas"></canvas>
+
+    <div id="credits-modal">
+      <div class="credits-content">
+        <h2>Credits</h2>
+        <p>Developed by npm install dispare</p>
+        <p>Phaser.js + HTML5 + TailwindCSS</p>
+        <button onclick="document.getElementById('credits-modal').style.display='none'">Close</button>
+      </div>
+    </div>
   </main>
 
-  <footer>
+
+  <footer style="display: none;">
     <p>&copy; Built by SB - npm install dispare 2025</p>
   </footer>
 
-  <script type="module" src="/src/scenes/GameScene.js"></script>
+  <script type="module">
+    import "/src/scenes/GameScene.js";
+
+    const startBtn = document.getElementById("start-btn");
+    const homeScreen = document.getElementById("home-screen");
+    const canvas = document.getElementById("gameCanvas");
+    const header = document.querySelector("header");
+    const footer = document.querySelector("footer");
+
+    startBtn.addEventListener("click", () => {
+      homeScreen.style.display = "none";
+      canvas.style.display = "block";
+      header.style.display = "flex";
+      footer.style.display = "flex";
+
+      if (window.startGame) {
+        window.startGame();
+      }
+    });
+      window.addEventListener("DOMContentLoaded", () => {
+    document.body.classList.add("fade-in");
+  });
+    
+  </script>
 </body>
 </html>
