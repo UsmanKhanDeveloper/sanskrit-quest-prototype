@@ -1,0 +1,4502 @@
+[
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "रक्तवर्णः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "गृहः",
+      "शीतलः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Nose\"?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "अन्नम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मन्दः",
+      "दुग्धम्",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Bad\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "अशुभम्",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cold\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अश्वः",
+      "गजः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुक्लः",
+      "नीलः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "गृहः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "जलम्",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fast\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "शीघ्रः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "अन्नम्",
+      "बालकः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Father\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "पिता",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Flower\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "मार्जारः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गजः",
+      "फलम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "शीघ्रः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fish\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "पुष्पम्",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अग्निः",
+      "मित्रम्",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "वृक्षः",
+      "गजः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Food\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "अन्नम्",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sun\"?",
+    "correctAnswer": "C",
+    "options": [
+      "माता",
+      "गृहः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "अश्वः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शीतलः",
+      "सूर्यः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "वृक्षः",
+      "जलम्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sweet\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मधुरः",
+      "बालिका",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Water\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "दुग्धम्",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Girl\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "शीघ्रः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Father\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "पिता",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Elephant\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "गजः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "रक्तवर्णः",
+      "मधुरः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गृहः",
+      "पुष्पम्",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Tree\"?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "नीलः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Leg\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पादः",
+      "बालकः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Eye\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पादः",
+      "नेत्रम्",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "आम्",
+      "माता",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "पुष्पम्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Ear\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "कर्णः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Nose\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नासिका",
+      "गजः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Hand\"?",
+    "correctAnswer": "A",
+    "options": [
+      "हस्तः",
+      "माता",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"No\"?",
+    "correctAnswer": "C",
+    "options": [
+      "गृहः",
+      "अग्निः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fish\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "वृक्षः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "बालकः",
+      "वृक्षः",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अश्वः",
+      "महान्",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "शुक्लः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Book\"?",
+    "correctAnswer": "C",
+    "options": [
+      "नीलः",
+      "न",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Mother\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पादः",
+      "श्वानः",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sun\"?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "गजः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Friend\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मित्रम्",
+      "दुग्धम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"House\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "महान्",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "फलम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Small\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "बालकः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "पुष्पम्",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Blue\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "नेत्रम्",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cat\"?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "मधुरः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "नेत्रम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"White\"?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "शुक्लः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "C",
+    "options": [
+      "आम्",
+      "शुक्लः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"House\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "गृहः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मत्स्यः",
+      "नासिका",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "वृक्षः",
+      "कृष्णः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Elephant\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मधुरः",
+      "गजः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Food\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अन्नम्",
+      "कृष्णः",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "C",
+    "options": [
+      "कर्णः",
+      "माता",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "C",
+    "options": [
+      "लघु",
+      "कृष्णः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Eye\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अग्निः",
+      "मधुरः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "आम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "श्वानः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Flower\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "वृक्षः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Friend\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "मित्रम्",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "A",
+    "options": [
+      "माता",
+      "मित्रम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Friend\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अश्वः",
+      "चन्द्रः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अशुभम्",
+      "रक्तवर्णः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fast\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शीघ्रः",
+      "रक्तवर्णः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Yes\"?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "आम्",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "महान्",
+      "पुष्पम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Small\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "लघु",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "जलम्",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मित्रम्",
+      "कृष्णः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "कर्णः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Mother\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "चन्द्रः",
+      "माता",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fast\"?",
+    "correctAnswer": "B",
+    "options": [
+      "नासिका",
+      "शीघ्रः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुस्तकम्",
+      "रक्तवर्णः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "अग्निः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुस्तकम्",
+      "पिता",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Big\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "महान्",
+      "माता",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cat\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मार्जारः",
+      "हस्तः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Moon\"?",
+    "correctAnswer": "A",
+    "options": [
+      "चन्द्रः",
+      "जलम्",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Boy\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "बालकः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "कृष्णः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "मित्रम्",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Water\"?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "शुभम्",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "सूर्यः",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "पिता",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "पुष्पम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "न",
+      "लघु",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Tree\"?",
+    "correctAnswer": "A",
+    "options": [
+      "वृक्षः",
+      "अन्नम्",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Horse\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "आम्",
+      "अश्वः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "महान्",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Slow\"?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "पुस्तकम्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "हस्तः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Food\"?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "अन्नम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "नेत्रम्",
+      "शीतलः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Leg\"?",
+    "correctAnswer": "C",
+    "options": [
+      "श्वानः",
+      "पुष्पम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Yes\"?",
+    "correctAnswer": "A",
+    "options": [
+      "आम्",
+      "मत्स्यः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cat\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "चन्द्रः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cat\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मार्जारः",
+      "अन्नम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Black\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "न",
+      "लघु",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Father\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पिता",
+      "मार्जारः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fish\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "गृहः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Girl\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पादः",
+      "बालिका",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "फलम्",
+      "शुक्लः",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fruit\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "फलम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Nose\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नासिका",
+      "मन्दः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गृहः",
+      "मन्दः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "रक्तवर्णः",
+      "मधुरः",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "पादः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "कृष्णः",
+      "अग्निः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"House\"?",
+    "correctAnswer": "B",
+    "options": [
+      "आम्",
+      "गृहः",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मधुरः",
+      "पुष्पम्",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "माता",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Flower\"?",
+    "correctAnswer": "C",
+    "options": [
+      "गृहः",
+      "शीघ्रः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Book\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "लघु",
+      "पुस्तकम्",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Elephant\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "न",
+      "गजः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Yes\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "नेत्रम्",
+      "आम्",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुष्पम्",
+      "अग्निः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Milk\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शीघ्रः",
+      "शीतलः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fish\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "न",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Father\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "मत्स्यः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"No\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुस्तकम्",
+      "अन्नम्",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अशुभम्",
+      "रक्तवर्णः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Leg\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "पुष्पम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fast\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "न",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fast\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "शीघ्रः",
+      "पुस्तकम्",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Father\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "पिता",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sweet\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "पिता",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गजः",
+      "महान्",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Eye\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नेत्रम्",
+      "शीतलः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Milk\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "फलम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "शुक्लः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Friend\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मित्रम्",
+      "मन्दः",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Hand\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मन्दः",
+      "हस्तः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "गृहः",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cat\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "मार्जारः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Moon\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "चन्द्रः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "पुष्पम्",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Food\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "अन्नम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "हस्तः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "शीघ्रः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fast\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मन्दः",
+      "शीघ्रः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुष्पम्",
+      "अश्वः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Friend\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "मित्रम्",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "शीघ्रः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Milk\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मत्स्यः",
+      "दुग्धम्",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Moon\"?",
+    "correctAnswer": "B",
+    "options": [
+      "जलम्",
+      "चन्द्रः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Bad\"?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "अशुभम्",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Small\"?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "नेत्रम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Small\"?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "अन्नम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Black\"?",
+    "correctAnswer": "A",
+    "options": [
+      "कृष्णः",
+      "पिता",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Dog\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुस्तकम्",
+      "दुग्धम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Elephant\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "कृष्णः",
+      "गजः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Book\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "पुस्तकम्",
+      "मन्दः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "C",
+    "options": [
+      "कर्णः",
+      "मार्जारः",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Food\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुष्पम्",
+      "मन्दः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "बालिका",
+      "अशुभम्",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Eye\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नेत्रम्",
+      "मधुरः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Good\"?",
+    "correctAnswer": "B",
+    "options": [
+      "नासिका",
+      "शुभम्",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "आम्",
+      "जलम्",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Leg\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "गजः",
+      "आम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fast\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "न",
+      "शीघ्रः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Big\"?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "नीलः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Girl\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अन्नम्",
+      "बालिका",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "अन्नम्",
+      "जलम्",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Hand\"?",
+    "correctAnswer": "A",
+    "options": [
+      "हस्तः",
+      "फलम्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Milk\"?",
+    "correctAnswer": "A",
+    "options": [
+      "दुग्धम्",
+      "शीघ्रः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "आम्",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Mother\"?",
+    "correctAnswer": "C",
+    "options": [
+      "श्वानः",
+      "बालिका",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "बालकः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "कृष्णः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "शीतलः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Boy\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मन्दः",
+      "वृक्षः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cold\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "शीतलः",
+      "फलम्",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fruit\"?",
+    "correctAnswer": "A",
+    "options": [
+      "फलम्",
+      "अग्निः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "कर्णः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "C",
+    "options": [
+      "बालिका",
+      "कर्णः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Moon\"?",
+    "correctAnswer": "A",
+    "options": [
+      "चन्द्रः",
+      "पादः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cold\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मत्स्यः",
+      "शीतलः",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Leg\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पादः",
+      "कर्णः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "पादः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "A",
+    "options": [
+      "आम्",
+      "पादः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Horse\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कृष्णः",
+      "अश्वः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गजः",
+      "नेत्रम्",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Red\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गृहः",
+      "रक्तवर्णः",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पादः",
+      "बालकः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Friend\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मित्रम्",
+      "बालिका",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"House\"?",
+    "correctAnswer": "C",
+    "options": [
+      "वृक्षः",
+      "मन्दः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "कर्णः",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मन्दः",
+      "बालकः",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "A",
+    "options": [
+      "माता",
+      "महान्",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Flower\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "पुस्तकम्",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Small\"?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "अश्वः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"House\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "अश्वः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Slow\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुष्पम्",
+      "मन्दः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Father\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मन्दः",
+      "न",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sweet\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "मधुरः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Big\"?",
+    "correctAnswer": "A",
+    "options": [
+      "महान्",
+      "मन्दः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Book\"?",
+    "correctAnswer": "B",
+    "options": [
+      "दुग्धम्",
+      "पुस्तकम्",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cat\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "मार्जारः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "आम्",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Yes\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुष्पम्",
+      "आम्",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Milk\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मधुरः",
+      "दुग्धम्",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Red\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "रक्तवर्णः",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Elephant\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "गजः",
+      "दुग्धम्",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Mother\"?",
+    "correctAnswer": "A",
+    "options": [
+      "माता",
+      "मार्जारः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Milk\"?",
+    "correctAnswer": "C",
+    "options": [
+      "नीलः",
+      "वृक्षः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Moon\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "फलम्",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "नीलः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "गृहः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "अशुभम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Dog\"?",
+    "correctAnswer": "A",
+    "options": [
+      "श्वानः",
+      "शुक्लः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "न",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Milk\"?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "दुग्धम्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fruit\"?",
+    "correctAnswer": "A",
+    "options": [
+      "फलम्",
+      "शीघ्रः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "गजः",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"No\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "न",
+      "पिता",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Slow\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "सूर्यः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "मधुरः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Tree\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पादः",
+      "कृष्णः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Father\"?",
+    "correctAnswer": "B",
+    "options": [
+      "लघु",
+      "पिता",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "कर्णः",
+      "फलम्",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Moon\"?",
+    "correctAnswer": "C",
+    "options": [
+      "श्वानः",
+      "कृष्णः",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fast\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अशुभम्",
+      "शीघ्रः",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Tree\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "बालकः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Black\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "कृष्णः",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Friend\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मित्रम्",
+      "आम्",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Black\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मित्रम्",
+      "कृष्णः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "बालकः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Elephant\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गजः",
+      "मधुरः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"White\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुक्लः",
+      "नेत्रम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "नीलः",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Nose\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अशुभम्",
+      "नासिका",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "A",
+    "options": [
+      "माता",
+      "अश्वः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Water\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "जलम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Father\"?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "मधुरः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Boy\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुभम्",
+      "लघु",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fish\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "आम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "नेत्रम्",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Ear\"?",
+    "correctAnswer": "A",
+    "options": [
+      "कर्णः",
+      "चन्द्रः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fruit\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "शीघ्रः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cold\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "मित्रम्",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Friend\"?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "जलम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Flower\"?",
+    "correctAnswer": "C",
+    "options": [
+      "श्वानः",
+      "शुक्लः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "शुभम्",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fruit\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "पुस्तकम्",
+      "नेत्रम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "सूर्यः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Dog\"?",
+    "correctAnswer": "A",
+    "options": [
+      "श्वानः",
+      "शीतलः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Blue\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "पादः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कृष्णः",
+      "अशुभम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sweet\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "नीलः",
+      "लघु",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Big\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "श्वानः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sweet\"?",
+    "correctAnswer": "B",
+    "options": [
+      "वृक्षः",
+      "मधुरः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अशुभम्",
+      "हस्तः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अश्वः",
+      "श्वानः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Milk\"?",
+    "correctAnswer": "B",
+    "options": [
+      "नीलः",
+      "दुग्धम्",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "शीघ्रः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "B",
+    "options": [
+      "लघु",
+      "गजः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fast\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मित्रम्",
+      "शीघ्रः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "फलम्",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "अशुभम्",
+      "मत्स्यः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Dog\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "श्वानः",
+      "हस्तः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "शुभम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Hand\"?",
+    "correctAnswer": "A",
+    "options": [
+      "हस्तः",
+      "जलम्",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Horse\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "अश्वः",
+      "मधुरः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "आम्",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Nose\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नासिका",
+      "शीघ्रः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sun\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अन्नम्",
+      "हस्तः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fruit\"?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "फलम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cat\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मार्जारः",
+      "नीलः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fish\"?",
+    "correctAnswer": "C",
+    "options": [
+      "महान्",
+      "लघु",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "वृक्षः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sweet\"?",
+    "correctAnswer": "B",
+    "options": [
+      "आम्",
+      "मधुरः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Eye\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नेत्रम्",
+      "लघु",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Eye\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "नेत्रम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अशुभम्",
+      "नेत्रम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"White\"?",
+    "correctAnswer": "B",
+    "options": [
+      "महान्",
+      "शुक्लः",
+      "कृष्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "शीघ्रः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Big\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गृहः",
+      "महान्",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "बालकः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Nose\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "नासिका",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fire\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "पुष्पम्",
+      "माता",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Nose\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नासिका",
+      "अग्निः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Food\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अन्नम्",
+      "नासिका",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Book\"?",
+    "correctAnswer": "B",
+    "options": [
+      "फलम्",
+      "पुस्तकम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fruit\"?",
+    "correctAnswer": "A",
+    "options": [
+      "फलम्",
+      "शीघ्रः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Good\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "गृहः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"White\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "नासिका",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Food\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अग्निः",
+      "अन्नम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"White\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पादः",
+      "मन्दः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Moon\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "चन्द्रः",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "जलम्",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "बालकः",
+      "अन्नम्",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Yes\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "आम्",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Dog\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "पुस्तकम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालकः",
+      "पुस्तकम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cat\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुक्लः",
+      "न",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "अग्निः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "शुक्लः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Eye\"?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "नेत्रम्",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fruit\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मन्दः",
+      "न",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Father\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "पिता",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "महान्",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Moon\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "फलम्",
+      "चन्द्रः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Big\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "महान्",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "जलम्",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "A",
+    "options": [
+      "आम्",
+      "नेत्रम्",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "माता",
+      "मन्दः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Good\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "गृहः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "श्वानः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अग्निः",
+      "नीलः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "B",
+    "options": [
+      "लघु",
+      "अग्निः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cat\"?",
+    "correctAnswer": "C",
+    "options": [
+      "न",
+      "शुभम्",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Moon\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कृष्णः",
+      "चन्द्रः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "अन्नम्",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sun\"?",
+    "correctAnswer": "A",
+    "options": [
+      "सूर्यः",
+      "नासिका",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "न",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Ear\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "कर्णः",
+      "पिता",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "C",
+    "options": [
+      "हस्तः",
+      "वृक्षः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "हस्तः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Girl\"?",
+    "correctAnswer": "B",
+    "options": [
+      "माता",
+      "बालिका",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Bad\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अशुभम्",
+      "कृष्णः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"White\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मित्रम्",
+      "नेत्रम्",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "B",
+    "options": [
+      "नीलः",
+      "आम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Bad\"?",
+    "correctAnswer": "A",
+    "options": [
+      "अशुभम्",
+      "हस्तः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "हस्तः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "माता",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Moon\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मित्रम्",
+      "चन्द्रः",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sun\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "लघु",
+      "सूर्यः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Eye\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नेत्रम्",
+      "माता",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Hand\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "दुग्धम्",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cold\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "शुक्लः",
+      "बालकः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Food\"?",
+    "correctAnswer": "C",
+    "options": [
+      "कर्णः",
+      "शीघ्रः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Boy\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "हस्तः",
+      "बालकः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fruit\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "फलम्",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Slow\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "सूर्यः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Food\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "अन्नम्",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cold\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "गजः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fire\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "नासिका",
+      "अग्निः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "माता",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "शुक्लः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sweet\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मधुरः",
+      "माता",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Black\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मार्जारः",
+      "कृष्णः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "लघु",
+      "गृहः",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cat\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "मार्जारः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Ear\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "कर्णः",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Girl\"?",
+    "correctAnswer": "C",
+    "options": [
+      "न",
+      "पुस्तकम्",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Friend\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मित्रम्",
+      "बालकः",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पादः",
+      "महान्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मत्स्यः",
+      "पिता",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "A",
+    "options": [
+      "आम्",
+      "बालकः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Nose\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "नीलः",
+      "शीघ्रः",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Red\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "रक्तवर्णः",
+      "गजः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "C",
+    "options": [
+      "वृक्षः",
+      "रक्तवर्णः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "अन्नम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Blue\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "पिता",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "शुक्लः",
+      "अन्नम्",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Leg\"?",
+    "correctAnswer": "C",
+    "options": [
+      "लघु",
+      "आम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "शीतलः",
+      "बालकः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "सूर्यः",
+      "अन्नम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cat\"?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "मार्जारः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Nose\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "फलम्",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुभम्",
+      "मार्जारः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Red\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शीतलः",
+      "अशुभम्",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Cat\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "आम्",
+      "मार्जारः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "चन्द्रः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "शुक्लः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cold\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शीतलः",
+      "जलम्",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "लघु",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Leg\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुभम्",
+      "श्वानः",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "मन्दः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Big\"?",
+    "correctAnswer": "A",
+    "options": [
+      "महान्",
+      "कर्णः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Friend\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुष्पम्",
+      "मित्रम्",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"No\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "नीलः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पादः",
+      "कर्णः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Big\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "महान्",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Boy\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "हस्तः",
+      "चन्द्रः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"White\"?",
+    "correctAnswer": "C",
+    "options": [
+      "बालिका",
+      "बालकः",
+      "शुक्लः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fire\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुष्पम्",
+      "अग्निः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Water\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "शीघ्रः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sweet\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "मधुरः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cold\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मत्स्यः",
+      "श्वानः",
+      "शीतलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Flower\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "बालिका",
+      "पुष्पम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Blue\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "नीलः",
+      "गजः",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Milk\"?",
+    "correctAnswer": "C",
+    "options": [
+      "नासिका",
+      "शुभम्",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Boy\"?",
+    "correctAnswer": "C",
+    "options": [
+      "माता",
+      "मार्जारः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "शीतलः",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Nose\"?",
+    "correctAnswer": "B",
+    "options": [
+      "वृक्षः",
+      "नासिका",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Moon\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अशुभम्",
+      "चन्द्रः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Water\"?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "चन्द्रः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "नेत्रम्",
+      "शीघ्रः",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Blue\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "गृहः",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Ear\"?",
+    "correctAnswer": "B",
+    "options": [
+      "न",
+      "कर्णः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अश्वः",
+      "जलम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "फलम्",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Eye\"?",
+    "correctAnswer": "A",
+    "options": [
+      "नेत्रम्",
+      "पिता",
+      "न"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Boy\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालकः",
+      "मत्स्यः",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fast\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अन्नम्",
+      "नेत्रम्",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "रक्तवर्णः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Book\"?",
+    "correctAnswer": "B",
+    "options": [
+      "दुग्धम्",
+      "पुस्तकम्",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Yes\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "शुक्लः",
+      "आम्",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Black\"?",
+    "correctAnswer": "A",
+    "options": [
+      "कृष्णः",
+      "शुक्लः",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fruit\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "आम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Hand\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "हस्तः",
+      "कर्णः",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"House\"?",
+    "correctAnswer": "A",
+    "options": [
+      "गृहः",
+      "लघु",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "A",
+    "options": [
+      "आम्",
+      "लघु",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Slow\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "शुभम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "अश्वः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अन्नम्",
+      "बालकः",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Girl\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "शीतलः",
+      "बालिका"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Red\"?",
+    "correctAnswer": "B",
+    "options": [
+      "महान्",
+      "रक्तवर्णः",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sun\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मार्जारः",
+      "शुभम्",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Yes\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "पुष्पम्",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Food\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "न",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मार्जारः",
+      "गजः",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "अन्नम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"House\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "गृहः",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "शुभम्",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Bad\"?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "अशुभम्",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "B",
+    "options": [
+      "अश्वः",
+      "गजः",
+      "मार्जारः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sun\"?",
+    "correctAnswer": "B",
+    "options": [
+      "बालिका",
+      "सूर्यः",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मन्दः",
+      "गजः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Leg\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मार्जारः",
+      "पादः",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Flower\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "पिता",
+      "हस्तः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fish\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "वृक्षः",
+      "मत्स्यः",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sweet\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पुष्पम्",
+      "चन्द्रः",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अग्निः",
+      "बालकः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Elephant\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "अन्नम्",
+      "गजः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Eye\"?",
+    "correctAnswer": "C",
+    "options": [
+      "गृहः",
+      "जलम्",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"House\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कृष्णः",
+      "गृहः",
+      "कर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Big\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "लघु",
+      "शीघ्रः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Water\"?",
+    "correctAnswer": "A",
+    "options": [
+      "जलम्",
+      "नेत्रम्",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Dog\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "बालकः",
+      "जलम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sweet\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मधुरः",
+      "चन्द्रः",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Tree\"?",
+    "correctAnswer": "A",
+    "options": [
+      "वृक्षः",
+      "माता",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "वृक्षः",
+      "दुग्धम्",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Book\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "पुस्तकम्",
+      "कर्णः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Friend\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "नेत्रम्",
+      "मित्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Dog\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "कर्णः",
+      "शुभम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Good\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीघ्रः",
+      "शुभम्",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sun\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "नेत्रम्",
+      "सूर्यः",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Moon\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "चन्द्रः",
+      "पिता",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fast\"?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "पुस्तकम्",
+      "शीघ्रः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Big\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शुभम्",
+      "महान्",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Sun\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "सूर्यः",
+      "नासिका"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Blue\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "मन्दः",
+      "नीलः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Black\"?",
+    "correctAnswer": "B",
+    "options": [
+      "कर्णः",
+      "कृष्णः",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Book\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुस्तकम्",
+      "पुष्पम्",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Mother\"?",
+    "correctAnswer": "C",
+    "options": [
+      "श्वानः",
+      "अग्निः",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Book\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "रक्तवर्णः",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Mother\"?",
+    "correctAnswer": "B",
+    "options": [
+      "शीतलः",
+      "माता",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Small\"?",
+    "correctAnswer": "C",
+    "options": [
+      "चन्द्रः",
+      "कृष्णः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "श्वानः",
+      "शुक्लः",
+      "मन्दः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Horse\"?",
+    "correctAnswer": "C",
+    "options": [
+      "शुक्लः",
+      "जलम्",
+      "अश्वः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Good\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "माता",
+      "मन्दः",
+      "शुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Cold\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पुस्तकम्",
+      "शीतलः",
+      "मधुरः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"No\"?",
+    "correctAnswer": "B",
+    "options": [
+      "पिता",
+      "न",
+      "रक्तवर्णः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"White\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "शुक्लः",
+      "पिता",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Fire\"?",
+    "correctAnswer": "C",
+    "options": [
+      "गजः",
+      "कृष्णः",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Big\"?",
+    "correctAnswer": "C",
+    "options": [
+      "जलम्",
+      "अग्निः",
+      "महान्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Slow\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "मधुरः",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Black\"?",
+    "correctAnswer": "A",
+    "options": [
+      "कृष्णः",
+      "बालकः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"No\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "न",
+      "मत्स्यः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Slow\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "मन्दः",
+      "अन्नम्",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Water\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "जलम्",
+      "अन्नम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Flower\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "पुस्तकम्",
+      "नीलः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Small\" in Sanskrit?",
+    "correctAnswer": "A",
+    "options": [
+      "लघु",
+      "मत्स्यः",
+      "नेत्रम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Nose\"?",
+    "correctAnswer": "B",
+    "options": [
+      "गजः",
+      "नासिका",
+      "माता"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fruit\"?",
+    "correctAnswer": "C",
+    "options": [
+      "पिता",
+      "शुक्लः",
+      "फलम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Fire\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "मत्स्यः",
+      "पुष्पम्",
+      "अग्निः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Small\"?",
+    "correctAnswer": "B",
+    "options": [
+      "न",
+      "लघु",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Sun\"?",
+    "correctAnswer": "C",
+    "options": [
+      "नासिका",
+      "मत्स्यः",
+      "सूर्यः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Nose\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "नीलः",
+      "नासिका",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Fish\"?",
+    "correctAnswer": "B",
+    "options": [
+      "दुग्धम्",
+      "मत्स्यः",
+      "पुस्तकम्"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Ear\" in Sanskrit?",
+    "correctAnswer": "B",
+    "options": [
+      "सूर्यः",
+      "कर्णः",
+      "जलम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Elephant\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मत्स्यः",
+      "नीलः",
+      "गजः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Dog\"?",
+    "correctAnswer": "C",
+    "options": [
+      "फलम्",
+      "जलम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Small\"?",
+    "correctAnswer": "C",
+    "options": [
+      "अशुभम्",
+      "शीतलः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Cat\"?",
+    "correctAnswer": "A",
+    "options": [
+      "मार्जारः",
+      "नासिका",
+      "चन्द्रः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"No\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "चन्द्रः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Bad\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "दुग्धम्",
+      "गजः",
+      "अशुभम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Sweet\"?",
+    "correctAnswer": "B",
+    "options": [
+      "नेत्रम्",
+      "मधुरः",
+      "बालकः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Good\"?",
+    "correctAnswer": "A",
+    "options": [
+      "शुभम्",
+      "सूर्यः",
+      "लघु"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Flower\"?",
+    "correctAnswer": "A",
+    "options": [
+      "पुष्पम्",
+      "नीलः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Dog\"?",
+    "correctAnswer": "C",
+    "options": [
+      "रक्तवर्णः",
+      "जलम्",
+      "श्वानः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Girl\"?",
+    "correctAnswer": "A",
+    "options": [
+      "बालिका",
+      "मत्स्यः",
+      "न"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Father\"?",
+    "correctAnswer": "C",
+    "options": [
+      "सूर्यः",
+      "गजः",
+      "पिता"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "अन्नम्",
+      "मत्स्यः",
+      "वृक्षः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Moon\"?",
+    "correctAnswer": "A",
+    "options": [
+      "चन्द्रः",
+      "दुग्धम्",
+      "पादः"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"Yes\"?",
+    "correctAnswer": "C",
+    "options": [
+      "मधुरः",
+      "लघु",
+      "आम्"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Hand\"?",
+    "correctAnswer": "B",
+    "options": [
+      "रक्तवर्णः",
+      "हस्तः",
+      "मत्स्यः"
+    ]
+  },
+  {
+    "prompt": "Which Sanskrit word means \"Father\"?",
+    "correctAnswer": "B",
+    "options": [
+      "मत्स्यः",
+      "पिता",
+      "दुग्धम्"
+    ]
+  },
+  {
+    "prompt": "What is the Sanskrit word for \"House\"?",
+    "correctAnswer": "C",
+    "options": [
+      "आम्",
+      "नेत्रम्",
+      "गृहः"
+    ]
+  },
+  {
+    "prompt": "How do you say \"Tree\" in Sanskrit?",
+    "correctAnswer": "C",
+    "options": [
+      "शीघ्रः",
+      "पादः",
+      "वृक्षः"
+    ]
+  }
+]

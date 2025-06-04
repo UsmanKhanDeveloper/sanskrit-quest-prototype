@@ -1,5 +1,7 @@
 import Phaser from "phaser";
 import { PreloadScene } from "./PreloadScene";
+import { LevelScene } from "./LevelScene";
+
 
 const sizes = {
   width: 743,
@@ -71,7 +73,7 @@ const config = {
       debug: false,
     },
   },
-  scene: [PreloadScene, GameScene],
+  scene: [PreloadScene, GameScene, LevelScene],
 };
 
 if (!window.gameStarted) {
@@ -119,5 +121,8 @@ document.getElementById("fullscreen-btn").addEventListener("click", () => {
 document.getElementById("credits-btn").addEventListener("click", () => {
   document.getElementById("credits-modal").style.display = "flex";
 });
+
+window.addEventListener('resize', () => this.scale.resize(window.innerWidth, window.innerHeight));
+
 
 
